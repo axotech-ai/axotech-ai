@@ -11,5 +11,5 @@ I build AI-powered apps, API workflows and occasionally websites. Most of my dev
 - **[PROJECT NAME]** – [PROJECT DESCRIPTION / LINK]
 
 ### Fun facts:
-- I enjoy playing FPS games.
+- I enjoy playing FPS games such as Half Life or BioShock
 - I'm into sports, especially gym and swimming.
